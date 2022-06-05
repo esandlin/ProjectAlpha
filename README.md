@@ -10,13 +10,15 @@ A Java based stand alone application with login gui requiring user to sign in wi
 
 ### Primary Application Requirements
 
-- [] security 
+- [] security:lock:
 - [] login page
 - [] stand alone application
 - [] 
 
 
 ### Software Requirements 
+
+is section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. 
 
 * [Java Enterprise] (https://www.java.com/en/download/manual.jsp)
 * 
