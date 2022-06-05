@@ -2,19 +2,22 @@
 ---
 ---
 ---
-## Company Von : Project Alpha Stage
-
+## Company Von:Project Alpha Stage
+Purpose:
 A Java based stand alone application with login gui requiring user to sign in with their Company email and password.
 ---
-### Index
-
+<br>
 <details>
-<summary>Index</summary>
-<ul><li>This dropdown contains</li>
-<li>a list!</li></ul>
+<summary>###Index</summary>
+<ul>
+    <li>[index](#anchor-links)</li>
+    <li>[primary application requirements](#anchor-links)</li>
+    <li>[software requirements](#anchor-links)</li>
+    <li>[preferred IED](#anchor-links)</li>
+    <li>[anchor link](#anchor-links)</li>
+</ul>
 </details>
-
-
+<br>
 ### Primary Application Requirements
 
 - [] security:lock:
@@ -31,8 +34,11 @@ is section should list any major frameworks/libraries used to bootstrap your pro
 * 
 * 
 
-#### Prefered IDE : [Eclipse] (https://www.eclipse.org/ide/)
+<br>
+#### Prefered IDE:
+    [Eclipse] (https://www.eclipse.org/ide/)
 
+<br>
 ---
 ##### footer
 If you are confused :confused: contact the following:
