@@ -7,6 +7,7 @@ Purpose:
 A Java based stand alone application with login gui requiring user to sign in with their Company email and password.
 ---
 <br>
+
 <details>
 <summary>###Index</summary>
 <ul>
@@ -17,7 +18,9 @@ A Java based stand alone application with login gui requiring user to sign in wi
     <li>[anchor link](#anchor-links)</li>
 </ul>
 </details>
+
 <br>
+
 ### Primary Application Requirements
 
 - [] security:lock:
@@ -35,11 +38,14 @@ is section should list any major frameworks/libraries used to bootstrap your pro
 * 
 
 <br>
+
 #### Prefered IDE:
     [Eclipse] (https://www.eclipse.org/ide/)
 
 <br>
+
 ---
+
 ##### footer
 If you are confused :confused: contact the following:
 - Admen : 
