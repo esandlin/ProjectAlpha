@@ -1,11 +1,18 @@
 # **ProjectAlpha**
-
-
+---
+---
+---
 ## Company Von : Project Alpha Stage
 
----
-
 A Java based stand alone application with login gui requiring user to sign in with their Company email and password.
+---
+### Index
+
+details>
+<summary>Index</summary>
+<ul><li>This dropdown contains</li>
+<li>a list!</li></ul>
+</details>
 
 
 ### Primary Application Requirements
