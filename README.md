@@ -8,7 +8,7 @@ A Java based stand alone application with login gui requiring user to sign in wi
 ---
 ### Index
 
-details>
+<details>
 <summary>Index</summary>
 <ul><li>This dropdown contains</li>
 <li>a list!</li></ul>
