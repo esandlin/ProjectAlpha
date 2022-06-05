@@ -25,6 +25,13 @@ A Java based stand alone application with login gui requiring user to sign in wi
 
 <br>
 
+### Prerequisites 
+### Set-up
+Click this button to get started:
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+
 ### Primary Application Requirements
 
 - [] security:lock:
