@@ -58,6 +58,14 @@ is section should list any major frameworks/libraries used to bootstrap your pro
 ---
 
 ##### footer
+Project Alpha is a management program developed by
+ Von Drehle, Inc. Copyright (C) 2022-2022 Von Drehle Inc.
+ <br>
+ Project Alpha is an extension to SugarCRM Community Edition developed by SalesAgility Ltd.
+ Copyright (C) 2022 - 2023 SalesAgility Click this button to get started:
+
+[![Project Alpha](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 If you are confused :confused: contact the following:
 - Admen : 
 - Supervisor : 
