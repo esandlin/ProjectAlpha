@@ -9,7 +9,7 @@ A Java based stand alone application with login gui requiring user to sign in wi
 <br>
 
 <details>
-<summary>###Index</summary>
+### <summary>Index</summary>
 <ul>
     <li>[index](#anchor-links)</li>
     <li>[primary application requirements](#anchor-links)</li>
